@@ -10,7 +10,7 @@ the Free Software Foundation.
 
 //Using Timer Interrupts with the Arduino
 #include <TimerOne.h>
-const int LED=13;
+const int LED=11;
  
 void setup() 
 {
